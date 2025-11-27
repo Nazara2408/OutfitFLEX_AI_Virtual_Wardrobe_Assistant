@@ -57,8 +57,6 @@ OutfitFLEX is a smart, AI-assisted virtual wardrobe and outfit planning applicat
 - Feature extractor for similarity matching
 - Outfit suggestion engine with trend awareness
 
----
 
-## 📂 Folder Structure (Simplified)
 
 
